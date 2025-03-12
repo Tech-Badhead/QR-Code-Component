@@ -48,3 +48,35 @@ body {
 .body p::first-letter {
     text-transform: uppercase;
 }
+
+@media screen and (max-width: 375px) {
+    .container {
+        width: 375px;
+        height: 100Vh;
+        margin: auto;
+        background-color: hsl(212, 45%, 89%);
+    }
+    #logo {
+        width: 170px;
+    }
+    .body {
+        width: 200px;
+    }
+
+    .body h3 {
+        font-size: 13px;
+    }
+
+    .body p {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .container {
+        width: 300px;
+        height: 100Vh;
+        margin: auto;
+        background-color: hsl(212, 45%, 89%);
+    }
+}
