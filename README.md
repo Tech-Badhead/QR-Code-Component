@@ -10,13 +10,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Live Site URL: [Add live site URL here](https://https://tech-badhead.github.io/QR-Code-Component/)
+- Solution URL:(https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- Live Site URL: (https://https://tech-badhead.github.io/QR-Code-Component/)
 
 
 ### Built with
@@ -43,7 +40,5 @@ How the width and max-width works interchangebaly is still a torn in the flesh f
 
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Tech-Badhead) 
-- Twitter - [@yourusername](https://x.com/AkeemUsman10482)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/Tech-Badhead) 
+- Twitter - (https://x.com/AkeemUsman10482)
